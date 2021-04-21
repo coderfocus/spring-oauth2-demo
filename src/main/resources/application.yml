@@ -1,0 +1,10 @@
+server:
+  port: 8654
+spring:
+  security:
+    oauth2:
+      client:
+        registration:
+          github:
+            clientId: XXXXXX
+            clientSecret: XXXXXX
